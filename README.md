@@ -6,3 +6,4 @@
 4. Provided actionable insights to reduce customer churn and improve customer retention strategies.
 
 Dataset: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
+Kaggle: [churn-prediction-ANN](https://www.kaggle.com/code/ajinkyabhushan/churn-prediction-ann)
